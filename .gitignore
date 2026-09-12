@@ -1,0 +1,15 @@
+# Database configuration
+includes/db.php
+
+# Local database dump
+college_event.sql
+
+# Environment files
+.env
+.env.*
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
